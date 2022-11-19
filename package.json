@@ -5,7 +5,7 @@
     "author": "Stefan Scheit",
     "bugs": "https://github.com/stscheit/conference-app/issues",
     "dependencies": {
-        "lwc-services": "^1.3.8"
+        "lwc-services": "^3.2.2"
     },
     "devDependencies": {
         "husky": "^3.0.9",
